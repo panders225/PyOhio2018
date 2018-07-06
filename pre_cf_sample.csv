@@ -1,0 +1,11 @@
+item_one,item_two,item_one_int_item_two,item_two_freq,tot_baskets
+pb,jelly,60,80,100
+pb,kale,20,70,100
+pb,pizza,5,30,100
+pb,walnut,18,60,100
+jelly,kale,6,70,100
+jelly,pizza,3,30,100
+jelly,walnut,34,60,100
+kale,pizza,20,30,100
+kale,walnut,58,60,100
+pizza,walnut,12,60,100

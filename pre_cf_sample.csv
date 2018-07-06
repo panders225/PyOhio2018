@@ -6,6 +6,16 @@ pb,walnut,18,60,100
 jelly,kale,6,70,100
 jelly,pizza,3,30,100
 jelly,walnut,34,60,100
+jelly,pb,60,30,100
 kale,pizza,20,30,100
 kale,walnut,58,60,100
+kale,pb,20,30,100
+kale,jelly,6,80,100
 pizza,walnut,12,60,100
+pizza ,jelly,3,80,100
+pizza,kale,20,70,100
+pizza,pb,5,30,100
+walnut,jelly,34,80,100
+walnut,kale,58,70,100
+walnut,pizza,12,30,100
+walnut,pb,18,30,100

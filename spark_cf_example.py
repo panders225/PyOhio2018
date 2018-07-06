@@ -4,10 +4,6 @@ from pyspark.sql import SparkSession
 
 spark = SparkSession.builder.appName("cf_example").getOrCreate()
 
-
-pre_cf = spark.read.csv('/kroger/data/mart/working/npr/phila/pre_cf_sample.csv', header=True)
-pre_cf.show(20, False)
-
 pre_cf = spark.read.csv('/sample/path/for/data/pre_cf_sample.csv', header=True)
 pre_cf.show(20, False)
 
